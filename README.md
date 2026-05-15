@@ -63,15 +63,20 @@ Conducted an end-to-end analysis of customer experience data to uncover drivers 
 ## CONTACT
 Interested in collaboration or have questions about my work? Kindly reach out.
 
-<form action="https://docs.google.com/forms/d/e/1FAIpQLScDBiwtn--azIARxtgzyqCYNOf4EqLYoyHzs5zhnl1L7f6xIA/formresponse" method="POST"> 
- <input type="text" name="entry.1108513901" placeholder="Your Name" required> 
- <input type="email" name="entry.2131620678" placeholder="Your Email" required> 
- <input type="text" name="entry.2132489336" placeholder="Subject" required> 
- <textarea name="message" placeholder="Message" required></textarea>
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSflKVub7jTUIOe9CLsesixre3VFDSxGNq7GMbXHzkTev0LlJg/formResponse" method="POST"> 
+ <input type="text" name="entry.965814484" placeholder="Your Name" required> 
+ <input type="email" name="entry.315622995" placeholder="Your Email" required> 
+ <input type="text" name="entry.3885238" placeholder="Subject" required> 
+<textarea
+    name="entry.202093989"
+    placeholder="Message"
+    required
+  ></textarea>
 
-<button type="submit">Send Message</button>
-
+  <button type="submit">Send Message</button>
 </form>
+
+
 
 ---
 
