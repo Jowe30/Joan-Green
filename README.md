@@ -19,6 +19,10 @@
 
 ## 👋 Hello, I'm Joan
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 I am a Health Data Analyst with a B.Sc. in Public Health and a Diploma in Data Analysis. My work sits at the intersection of **community health, health financing, and data-driven decision-making** — and I bring both technical skill and real-world field experience to every dataset I work with.
 
 For over six years, I have coordinated community health interventions across three Nigerian states, validated field data for NGO programmes, led mental health outreach reaching 1,000+ students, and analyzed global health datasets to surface insights that support better planning and policy.
@@ -30,6 +34,15 @@ I do not just analyze data. I understand the human context behind it — which m
 - 📊 Interactive dashboards that make complex findings easy to act on
 - 🏥 Deep domain knowledge in public health, health financing, and NGO programme delivery
 - 📝 Clear reporting and stakeholder communication — I translate numbers into narrative
+
+</td>
+<td width="35%" valign="top" align="center">
+
+<img width="260" src="images/joan_at_aphcf.jpeg" alt="Joan Green at APHCF 2025" style="border-radius: 12px;" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -47,7 +60,7 @@ I do not just analyze data. I understand the human context behind it — which m
 
 ---
 
-## 📂 Projects
+## 📂 Data Analysis Projects
 
 ---
 
@@ -133,20 +146,105 @@ I do not just analyze data. I understand the human context behind it — which m
 
 ---
 
-## 🌍 Public Health Work & Community Impact
+## 🌍 Public Health Work & Field Evidence
 
-My analytical work is grounded in six years of direct public health practice across Nigeria — work that shapes how I think about data and why I care about getting the insights right.
+My analytical work is grounded in six years of direct public health practice across Nigeria. This is not background context — it is evidence of real programme delivery, stakeholder engagement, and community impact that shapes how I think about every dataset I work with.
 
-| Year | Programme | Location | Impact |
-|---|---|---|---|
-| 2019–2023 | Health Program & Data Support Officer — CARE | Abia, Imo, Anambra | 700+ students and rural residents reached across 3 states |
-| 2023 | Mental Health Outreach Lead | Nnewi, Anambra | 1,000+ secondary school students engaged across 4 schools |
-| 2023 | Digital Health Policy Contributor | West African Institute of Public Health | Co-developed risk communication policy draft |
-| 2020 | Childhood Cancer Awareness Programme Lead | Uturu, Abia State | Community sensitization on breast and cervical cancer; IEC distribution and screening referrals |
-| 2021 | Environmental Sanitation & WASH Education | Okigwe, Imo State | School-based sanitation and hygiene education for underserved families |
-| 2025 | Volunteer Protocol Assistant | Africa Primary Health Care Forum, Abuja | Supported operations for 5,000+ guests and stakeholders |
+---
 
-This work is what made me a better analyst. I know what it looks like when data collection fails in the field. I know what a programme report actually needs to say to be useful. And I know the difference between an insight that sounds good and one that actually changes a decision.
+### 🏥 Project 1: Childhood Cancer Awareness Programme
+**Organisation:** CARE / Kiddies Essential Rights Initiative (KERI) &nbsp;|&nbsp; **Location:** Uturu, Abia State &nbsp;|&nbsp; **Year:** 2020
+
+Led a sensitization outreach to raise awareness on breast and cervical cancer among secondary school students and women in the Uturu community. The programme included interactive sessions, distribution of IEC materials, and referrals for screening. Each school visit engaged a minimum of 100 students. In one community school, the team funded school fees for 15 students at ₦4,000 each — going beyond awareness into direct support.
+
+*Aligned with: SDG 3 — Good Health and Well-being*
+
+<table>
+<tr>
+<td><img width="280" src="images/cancer_awareness_session.jpeg" alt="Cancer Awareness Session with Students" /></td>
+<td><img width="280" src="images/cancer_awareness_team.jpeg" alt="Cancer Awareness Outreach Team" /></td>
+</tr>
+</table>
+
+---
+
+### 🚿 Project 2: Environmental Sanitation & WASH Education
+**Organisation:** CARE &nbsp;|&nbsp; **Location:** Okigwe, Imo State &nbsp;|&nbsp; **Year:** 2021
+
+Coordinated and facilitated a secondary school-based sanitation project alongside health education sessions on proper handwashing, clean water practices, and disease prevention. Target audience included families and schoolchildren in underserved communities.
+
+*Aligned with: SDG 6 — Clean Water and Sanitation*
+
+<table>
+<tr>
+<td><img width="280" src="images/wash_session_mic.jpeg" alt="WASH Education Session" /></td>
+<td><img width="280" src="images/wash_classroom.jpeg" alt="WASH Classroom Facilitation" /></td>
+</tr>
+</table>
+
+---
+
+### 🧠 Project 3: Mental Health Advocacy Programme
+**Organisation:** CARE &nbsp;|&nbsp; **Location:** Nnewi, Anambra State &nbsp;|&nbsp; **Year:** 2023
+
+Designed and led a school-based mental health awareness campaign across four secondary schools, reaching over 1,000 students. The programme addressed stigma, stress management, and access to mental health resources, engaging both students and school staff.
+
+*Aligned with: SDG 3 — Good Health and Well-being*
+
+<table>
+<tr>
+<td><img width="280" src="images/mental_health_team.jpeg" alt="Mental Health Programme Team" /></td>
+<td><img width="280" src="images/mental_health_students.jpeg" alt="Students Engaged in Mental Health Session" /></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><img width="280" src="images/mental_health_classroom_1.jpeg" alt="Mental Health Classroom Session" /></td>
+<td><img width="280" src="images/mental_health_classroom_2.jpeg" alt="Mental Health Outreach in Session" /></td>
+</tr>
+</table>
+
+---
+
+### 📋 Multi-Programme Coordination at CARE (2019–2023)
+**Location:** Abia, Imo, and Anambra States &nbsp;|&nbsp; **Duration:** 4 years
+
+As project lead at CARE, coordinated multiple health outreach programmes across different states — serving as facilitator in some and joining the documentation team in others to ensure every programme had verified, accurate field reports. Each project involved community mobilization, volunteer supervision, logistics management, and follow-up reporting.
+
+<table>
+<tr>
+<td><img width="280" src="images/care_team_keri.jpeg" alt="CARE Team with KERI Materials" /></td>
+<td><img width="280" src="images/care_sdg_march.jpeg" alt="CARE Team SDG March" /></td>
+</tr>
+</table>
+
+---
+
+### 🎤 Africa Primary Health Care Forum (APHCF 2025)
+**Role:** Volunteer Protocol Assistant &nbsp;|&nbsp; **Location:** Abuja, Nigeria &nbsp;|&nbsp; **Year:** July 2025
+
+Supported event operations for 5,000+ guests, speakers, and attendees at the APHCF 2025 Forum themed *"Reimagining Primary Health Care for Universal Health Coverage and Health Security in Africa."* Managed registration, seating, and on-site coordination alongside delegates from WHO, World Bank, Africa CDC, UNAIDS, and The Lancet Global Health.
+
+<table>
+<tr>
+<td><img width="280" src="images/aphcf_group_photo.jpeg" alt="APHCF 2025 Group Photo" /></td>
+<td><img width="280" src="images/aphcf_registration.jpeg" alt="Joan Managing APHCF Registration" /></td>
+</tr>
+</table>
+
+---
+
+### 💬 Mental Health Advocacy — Speaking & Events
+
+Featured as a **Mental Health Advocate** at the *Dear Besties: Besties Day Out* event for teenage girls — a webinar and hangout combining mental health talks, peer discussions, and community building. Also contributed to CARE's Trauma-Informed Care programme at Faith Foundation Okpuno, Nnewi — designed to help young people build resilience against trauma.
+
+<table>
+<tr>
+<td><img width="280" src="images/care_trauma_informed_care.jpeg" alt="CARE Trauma Informed Care Event" /></td>
+<td><img width="280" src="images/dear_besties_event.jpeg" alt="Dear Besties Event - Joan as Mental Health Advocate" /></td>
+</tr>
+</table>
 
 ---
 
@@ -169,7 +267,7 @@ This work is what made me a better analyst. I know what it looks like when data 
 
 I am currently developing a concept for a **low-data mental health platform** designed specifically for young Africans at the community level — one that connects users anonymously to licensed mental health professionals, operates on as little as 50MB of data, and builds a peer community around confidence, career mentorship, and belonging.
 
-The platform is a response to a real pattern I observed across years of field work: young people in under-resourced communities carry mental health struggles silently because they do not trust traditional support systems, cannot afford professional help, and have no safe space to be honest. The goal is to change that — one conversation at a time.
+The platform is a response to a real pattern I observed across years of field work: young people in under-resourced communities carry their mental health struggles silently because they do not trust traditional support systems, cannot afford professional help, and have no safe space to be honest. The goal is to change that — one conversation at a time.
 
 *This project sits at the intersection of everything I care about: public health, technology, data, and community.*
 
@@ -218,7 +316,7 @@ If you have seen something here that resonates — reach out. I'd like to hear f
 
 ---
 
-*© Joan Green · Health Data Analyst · Public Health Professional · Lagos, Nigeria*
+*© Joan Green · Health Data Analyst · Public Health Professional · Abuja, Nigeria*
 
 </div>
 
