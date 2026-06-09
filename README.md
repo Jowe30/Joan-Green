@@ -29,13 +29,13 @@ I do not just analyze data. I understand the human context behind it — which m
 -  Strong data cleaning, validation, and exploratory analysis
 -  Interactive dashboards that make complex findings easy to act on
 -  Deep domain knowledge in public health, health financing, and NGO programme delivery
--  Clear reporting and stakeholder communication — I translate numbers into narrative
+-  Clear reporting and stakeholder communication — I translate numbers into narrative.
 
 </td>
 <td width="35%" valign="top" align="center">
 
 < src="<img width="260" height="370" alt="IMG_0290 JPG (1)" src="https://github.com/user-attachments/assets/2346d40e-6d33-4278-b69c-f07dabdaf5b9" />
-" alt="Joan Green at APHCF 2025" style="border-radius: 12px;" />
+
 
 </td>
 </tr>
