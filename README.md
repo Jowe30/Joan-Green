@@ -35,7 +35,7 @@ I do not just analyze data. I understand the human context behind it — which m
 </td>
 <td width="35%" valign="top" align="center">
 
-< "<img width="260" height="370" alt="IMG_0290 JPG (1)" src="https://github.com/user-attachments/assets/2346d40e-6d33-4278-b69c-f07dabdaf5b9" />
+ <img width="260" height="370" alt="IMG_0290 JPG (1)" src="https://github.com/user-attachments/assets/2346d40e-6d33-4278-b69c-f07dabdaf5b9" />
 
 
 </td>
