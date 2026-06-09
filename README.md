@@ -2,6 +2,7 @@
 
 # Joan Green
 
+
 ### Health Data Analyst &nbsp;|&nbsp; Public Health Professional &nbsp;|&nbsp; Community Health Advocate
 
 Turning health data into decisions that improve lives.
@@ -34,7 +35,7 @@ I do not just analyze data. I understand the human context behind it — which m
 </td>
 <td width="35%" valign="top" align="center">
 
-< src="<img width="260" height="370" alt="IMG_0290 JPG (1)" src="https://github.com/user-attachments/assets/2346d40e-6d33-4278-b69c-f07dabdaf5b9" />
+< "<img width="260" height="370" alt="IMG_0290 JPG (1)" src="https://github.com/user-attachments/assets/2346d40e-6d33-4278-b69c-f07dabdaf5b9" />
 
 
 </td>
@@ -43,7 +44,7 @@ I do not just analyze data. I understand the human context behind it — which m
 
 ---
 
-## 🛠 Technical Skills
+##  Technical Skills
 
 | Category | Tools & Technologies |
 |---|---|
@@ -57,7 +58,7 @@ I do not just analyze data. I understand the human context behind it — which m
 
 ---
 
-## 📂 Data Analysis Projects
+##  Data Analysis Projects
 
 ---
 
@@ -143,13 +144,13 @@ I do not just analyze data. I understand the human context behind it — which m
 
 ---
 
-## 🌍 Public Health Work & Field Evidence
+##  Public Health Work & Field Evidence
 
 My analytical work is grounded in six years of direct public health practice across Nigeria. This is not background context — it is evidence of real programme delivery, stakeholder engagement, and community impact that shapes how I think about every dataset I work with.
 
 ---
 
-### 🏥 Project 1: Childhood Cancer Awareness Programme
+###  Project 1: Childhood Cancer Awareness Programme
 **Organisation:** CARE / Kiddies Essential Rights Initiative (KERI) &nbsp;|&nbsp; **Location:** Uturu, Abia State &nbsp;|&nbsp; **Year:** 2020
 
 Led a sensitization outreach to raise awareness on breast and cervical cancer among secondary school students and women in the Uturu community. The programme included interactive sessions, distribution of IEC materials, and referrals for screening. Each school visit engaged a minimum of 100 students. In one community school, the team funded school fees for 15 students at ₦4,000 each — going beyond awareness into direct support.
@@ -165,7 +166,7 @@ Led a sensitization outreach to raise awareness on breast and cervical cancer am
 
 ---
 
-### 🚿 Project 2: Environmental Sanitation & WASH Education
+###  Project 2: Environmental Sanitation & WASH Education
 **Organisation:** CARE &nbsp;|&nbsp; **Location:** Okigwe, Imo State &nbsp;|&nbsp; **Year:** 2021
 
 Coordinated and facilitated a secondary school-based sanitation project alongside health education sessions on proper handwashing, clean water practices, and disease prevention. Target audience included families and schoolchildren in underserved communities.
@@ -181,7 +182,7 @@ Coordinated and facilitated a secondary school-based sanitation project alongsid
 
 ---
 
-### 🧠 Project 3: Mental Health Advocacy Programme
+###  Project 3: Mental Health Advocacy Programme
 **Organisation:** CARE &nbsp;|&nbsp; **Location:** Nnewi, Anambra State &nbsp;|&nbsp; **Year:** 2023
 
 Designed and led a school-based mental health awareness campaign across four secondary schools, reaching over 1,000 students. The programme addressed stigma, stress management, and access to mental health resources, engaging both students and school staff.
@@ -204,7 +205,7 @@ Designed and led a school-based mental health awareness campaign across four sec
 
 ---
 
-### 📋 Multi-Programme Coordination at CARE (2019–2023)
+###  Multi-Programme Coordination at CARE (2019–2023)
 **Location:** Abia, Imo, and Anambra States &nbsp;|&nbsp; **Duration:** 4 years
 
 As project lead at CARE, coordinated multiple health outreach programmes across different states — serving as facilitator in some and joining the documentation team in others to ensure every programme had verified, accurate field reports. Each project involved community mobilization, volunteer supervision, logistics management, and follow-up reporting.
@@ -218,7 +219,7 @@ As project lead at CARE, coordinated multiple health outreach programmes across 
 
 ---
 
-### 🎤 Africa Primary Health Care Forum (APHCF 2025)
+###  Africa Primary Health Care Forum (APHCF 2025)
 **Role:** Volunteer Protocol Assistant &nbsp;|&nbsp; **Location:** Abuja, Nigeria &nbsp;|&nbsp; **Year:** July 2025
 
 Supported event operations for 5,000+ guests, speakers, and attendees at the APHCF 2025 Forum themed *"Reimagining Primary Health Care for Universal Health Coverage and Health Security in Africa."* Managed registration, seating, and on-site coordination alongside delegates from WHO, World Bank, Africa CDC, UNAIDS, and The Lancet Global Health.
@@ -232,7 +233,7 @@ Supported event operations for 5,000+ guests, speakers, and attendees at the APH
 
 ---
 
-### 💬 Mental Health Advocacy — Speaking & Events
+###  Mental Health Advocacy — Speaking & Events
 
 Featured as a **Mental Health Advocate** at the *Dear Besties: Besties Day Out* event for teenage girls — a webinar and hangout combining mental health talks, peer discussions, and community building. Also contributed to CARE's Trauma-Informed Care programme at Faith Foundation Okpuno, Nnewi — designed to help young people build resilience against trauma.
 
@@ -245,7 +246,7 @@ Featured as a **Mental Health Advocate** at the *Dear Besties: Besties Day Out* 
 
 ---
 
-## 🎓 Education & Certifications
+##  Education & Certifications
 
 **AltSchool Africa** — Diploma, Data Analysis
 
@@ -260,7 +261,7 @@ Featured as a **Mental Health Advocate** at the *Dear Besties: Besties Day Out* 
 
 ---
 
-## 🌱 What I'm Building
+##  What I'm Building
 
 I am currently developing a concept for a **low-data mental health platform** designed specifically for young Africans at the community level — one that connects users anonymously to licensed mental health professionals, operates on as little as 50MB of data, and builds a peer community around confidence, career mentorship, and belonging.
 
@@ -270,28 +271,26 @@ The platform is a response to a real pattern I observed across years of field wo
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 I am open to roles and collaborations in **health data analysis, global health intelligence, NGO and development sector analytics, health insurance, and public health programme support**.
 
 If you have seen something here that resonates — reach out. I'd like to hear from you.
 
-**📧 Direct email:** joangreen645@gmail.com
+** Direct email:** joangreen645@gmail.com
 
-**📝 Send me a message via this form:**
-👉 [Click here to send a message](https://docs.google.com/forms/d/e/1FAIpQLSflKVub7jTUIOe9CLsesixre3VFDSxGNq7GMbXHzkTev0LlJg/viewform)
+** Send me a message via this form:**
+👉 [Click here to send a message](https://docs.google.com/forms/d/e/1FAIpQLSflKVub7jTUIOe9CLsesixre3VFDSxGNq7GMbXHzkTev0LlJg/viewform?usp=sharing&ouid=110782532335758163022)
 
 ---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/joan-green-858a40243)
-&nbsp;
-[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/iam_joangreen?igsh=MTR5aDdnd2hoZDN6OQ%3D%3D&utm_source=qr)
+
 
 ---
 
-### 🛠 Tools I Work With
+###  Tools I Work With
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" title="Python"/>
