@@ -1,17 +1,13 @@
 <div align="center">
 
-# JOAN GREEN
+# Joan Green
+
 ### Health Data Analyst &nbsp;|&nbsp; Public Health Professional &nbsp;|&nbsp; Community Health Advocate
 
-*Turning health data into decisions that improve lives.*
+Turning health data into decisions that improve lives.
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/View%20LinkedIn%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joan-green-858a40243)
-&nbsp;&nbsp;
-[![Download CV](https://img.shields.io/badge/Download%20CV-1B2A4A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/your-cv-link-here)
-
-> 📌 *Replace the CV link above with your actual Google Drive shareable link.*
 
 </div>
 
@@ -30,15 +26,16 @@ For over six years, I have coordinated community health interventions across thr
 I do not just analyze data. I understand the human context behind it — which means the questions I ask tend to be sharper, and the outputs I deliver tend to be more relevant to the people using them.
 
 **What I bring to your team:**
-- 🔍 Strong data cleaning, validation, and exploratory analysis
-- 📊 Interactive dashboards that make complex findings easy to act on
-- 🏥 Deep domain knowledge in public health, health financing, and NGO programme delivery
-- 📝 Clear reporting and stakeholder communication — I translate numbers into narrative
+-  Strong data cleaning, validation, and exploratory analysis
+-  Interactive dashboards that make complex findings easy to act on
+-  Deep domain knowledge in public health, health financing, and NGO programme delivery
+-  Clear reporting and stakeholder communication — I translate numbers into narrative
 
 </td>
 <td width="35%" valign="top" align="center">
 
-<img width="260" src="images/joan_at_aphcf.jpeg" alt="Joan Green at APHCF 2025" style="border-radius: 12px;" />
+< src="<img width="260" height="3175" alt="IMG_0290 JPG (1)" src="https://github.com/user-attachments/assets/2346d40e-6d33-4278-b69c-f07dabdaf5b9" />
+" alt="Joan Green at APHCF 2025" style="border-radius: 12px;" />
 
 </td>
 </tr>
