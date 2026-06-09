@@ -1,11 +1,8 @@
 <div align="center">
 
-# Joan Green
 
+ Health Data Analyst &nbsp;|&nbsp; Public Health Professional &nbsp;|&nbsp; Community Health Advocate
 
-### Health Data Analyst &nbsp;|&nbsp; Public Health Professional &nbsp;|&nbsp; Community Health Advocate
-
-Turning health data into decisions that improve lives.
 
 ---
 
