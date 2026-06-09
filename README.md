@@ -292,7 +292,7 @@ If you have seen something here that resonates — reach out. I'd like to hear f
 
 ---
 
-*© Joan Green · Health Data Analyst · Public Health Professional · Abuja, Nigeria*
+*© Joan Green · Health Data Analyst · Public Health Professional · Remote*
 
 </div>
 
