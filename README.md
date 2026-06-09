@@ -4,6 +4,7 @@
  Health Data Analyst &nbsp;|&nbsp; Public Health Professional &nbsp;|&nbsp; Community Health Advocate
 
 
+
 ---
 
 
@@ -17,13 +18,17 @@
 <tr>
 <td width="65%" valign="top">
 
-I am a Health Data Analyst with a B.Sc. in Public Health and a Diploma in Data Analysis. My work sits at the intersection of **community health, health financing, and data-driven decision-making** — and I bring both technical skill and real-world field experience to every dataset I work with.
+I am a Health Data Analyst with a B.Sc. in Public Health and a Diploma in Data Analysis. My work sits at the intersection of  **community health, health financing, and data-driven decision-making**  — and I bring both technical skill and real-world field experience to every dataset I work with.
 
 For over six years, I have coordinated community health interventions across three Nigerian states, validated field data for NGO programmes, led mental health outreach reaching 1,000+ students, and analyzed global health datasets to surface insights that support better planning and policy.
 
 I do not just analyze data. I understand the human context behind it — which means the questions I ask tend to be sharper, and the outputs I deliver tend to be more relevant to the people using them.
 
+
+
 **What I bring to your team:**
+
+
 -  Strong data cleaning, validation, and exploratory analysis
 -  Interactive dashboards that make complex findings easy to act on
 -  Deep domain knowledge in public health, health financing, and NGO programme delivery
