@@ -123,21 +123,6 @@ I do not just analyze data. I understand the human context behind it — which m
 
 **Why it matters:** Business intelligence like this helps operations and customer experience teams move from intuition to evidence — reducing churn, improving service design, and allocating support resources where they create the most impact.
 
----
-
-### 🔹 Weekly Sales Analysis Dashboard
-**Tools:** Microsoft Excel, Pivot Tables &nbsp;|&nbsp; HNG Internship
-
-**What I built:** An interactive Excel dashboard with dynamic slicers enabling store managers to explore weekly, store-level, and product-level performance without needing technical skills.
-
-**Impact:** Cleaned and standardized 10,000+ sales records. Reduced time spent on manual performance reviews by enabling ad-hoc, self-serve analysis. Identified underperforming product lines and store locations through visual trend comparison.
-
----
-
-### 🔹 Feature Engineering & Exploratory Analysis — MovieLens Dataset
-**Tools:** Python, Pandas, Matplotlib &nbsp;|&nbsp; HNG Internship
-
-**What I did:** Processed and merged 1M+ user ratings across multiple datasets. Engineered new behavioral features and visualized engagement patterns to support content segmentation and recommendation system design.
 
 ---
 
@@ -274,14 +259,12 @@ I am open to roles and collaborations in **health data analysis, global health i
 
 If you have seen something here that resonates — reach out. I'd like to hear from you.
 
-** Direct email:** joangreen645@gmail.com
+**Direct email:** joangreen645@gmail.com
 
-** Send me a message via this form:**
+**Send me a message via this form:**
 👉 [Click here to send a message](https://docs.google.com/forms/d/e/1FAIpQLSflKVub7jTUIOe9CLsesixre3VFDSxGNq7GMbXHzkTev0LlJg/viewform?usp=sharing&ouid=110782532335758163022)
 
----
 
-<div align="center">
 
 
 
