@@ -1,110 +1,225 @@
+<div align="center">
+
 # JOAN GREEN
-#### Health Data Analyst | Data Storyteller
+### Health Data Analyst &nbsp;|&nbsp; Public Health Professional &nbsp;|&nbsp; Community Health Advocate
+
+*Turning health data into decisions that improve lives.*
 
 ---
 
-## ABOUT ME
+[![LinkedIn](https://img.shields.io/badge/View%20LinkedIn%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joan-green-858a40243)
+&nbsp;&nbsp;
+[![Download CV](https://img.shields.io/badge/Download%20CV-1B2A4A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/your-cv-link-here)
 
-|  |  |
-|--|--|
-| I’m a Health Data Analyst who uses data to understand health outcomes and the financial systems that support them. My work sits at the intersection of **public health and financial analysis**, where I explore how data can improve service delivery, resource allocation, and decision-making. <br><br> I have experience working with **health program data, insurance datasets, and population-level indicators**, applying techniques in **data cleaning, validation, exploratory analysis, and visualization** to generate insights that are clear, accurate, and useful for stakeholders. <br><br> I also analyze **financial patterns within the health sector**, including cost drivers, risk factors, and expenditure trends, contributing to discussions around **efficiency, sustainability, and evidence-based planning**. <br><br> I hold a **B.Sc. in Public Health** and I am a **certified Data Analyst**, bringing together domain knowledge and technical expertise to effectively solve problems. | <br><br> ![IMG_0503 JPG](https://github.com/user-attachments/assets/ec054c8a-481f-4063-8bc6-96eb6269b4c2) 
- 
+> 📌 *Replace the CV link above with your actual Google Drive shareable link.*
 
----
-## MY PROJECTS
-
-🔹 **Life Expectancy Analysis** 
-
-Analyzed global life expectancy trends and relationships with health expenditure, GDP, and education.
-Highlighted regional disparities and development-driven outcomes.  
-
-
-🔹 **[Health Insurance Risk Profitability Analysis](https://github.com/Jowe30/Health-Insurance-Risk-Profitability-Analysis-Power-BI)** 
-
-<img width="1272" height="735" alt="Screenshot 2026-04-13 144626" src="https://github.com/user-attachments/assets/24d41030-9ee5-4280-8e44-a78a1e196035" />
-Exploration of key drivers of insurance charges, including age, BMI, smoking status, and region.
-Delivered insights for cost patterns, risk factors, and pricing considerations.  
-
-
-🔹 **[Global Health Expenditure](https://github.com/Jowe30/Exploratory-Data-Analysis-Global-Health-Expenditure)**  
-
-<img width="1085" height="652" alt="Screenshot 2026-04-13 145654" src="https://github.com/user-attachments/assets/badc2f87-d080-4b9c-aa69-452c451df42a" />
-Analysis of global health spending patterns across countries and income groups, examining **public vs private expenditure, per capita spending, and regional disparities**.
-
-This project highlights how **health financing impacts system performance and access to care**, providing insights relevant to **policy, planning, and resource allocation**.  
-
-🔹 **[Customer Interaction](https://github.com/Jowe30/Business-Intelligence-Customer-Experience-Analysis-Using-Power-BI)**
-
-<img width="1270" height="716" alt="Screenshot 2026-04-13 152054" src="https://github.com/user-attachments/assets/ac419f46-640b-41ce-8211-1882e1620101" />
-
-Conducted an end-to-end analysis of customer experience data to uncover drivers of satisfaction and engagement. Cleaned and explored the dataset, identified key trends and customer segments, and developed visual reports to highlight service gaps and improvement opportunities. Delivered actionable insights to support better customer experience strategies and data-driven decision-making.
-
----
-## Technical Skills
-**Data Exploration & Analysis**
-- Excel
-- SQL
-- Python
-- Power Query
-
-**Data Visualization**
-- Power BI
-- Excel
-- Tableau
-
-**Data Modeling**
-- Power Query
-- DAX
-- Star Schema Design
+</div>
 
 ---
 
+## 👋 Hello, I'm Joan
 
-## CONTACT
-Interested in collaboration or have questions about my work? Kindly reach out.
+I am a Health Data Analyst with a B.Sc. in Public Health and a Diploma in Data Analysis. My work sits at the intersection of **community health, health financing, and data-driven decision-making** — and I bring both technical skill and real-world field experience to every dataset I work with.
 
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSflKVub7jTUIOe9CLsesixre3VFDSxGNq7GMbXHzkTev0LlJg/formResponse" method="POST"> 
- <input type="text" name="entry.965814484" placeholder="Your Name" required> 
- <input type="email" name="entry.315622995" placeholder="Your Email" required> 
- <input type="text" name="entry.3885238" placeholder="Subject" required> 
-<textarea
-    name="entry.202093989"
-    placeholder="Message"
-    required
-  ></textarea>
+For over six years, I have coordinated community health interventions across three Nigerian states, validated field data for NGO programmes, led mental health outreach reaching 1,000+ students, and analyzed global health datasets to surface insights that support better planning and policy.
 
-  <button type="submit">Send Message</button>
-</form>
+I do not just analyze data. I understand the human context behind it — which means the questions I ask tend to be sharper, and the outputs I deliver tend to be more relevant to the people using them.
 
+**What I bring to your team:**
+- 🔍 Strong data cleaning, validation, and exploratory analysis
+- 📊 Interactive dashboards that make complex findings easy to act on
+- 🏥 Deep domain knowledge in public health, health financing, and NGO programme delivery
+- 📝 Clear reporting and stakeholder communication — I translate numbers into narrative
 
+---
+
+## 🛠 Technical Skills
+
+| Category | Tools & Technologies |
+|---|---|
+| **Data Analysis** | Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (MySQL, SQLite), Excel |
+| **Data Visualization** | Power BI, Tableau, Excel, Power Query |
+| **Data Modeling** | DAX, Star Schema Design, Power Query |
+| **Data Management** | Cleaning, validation, merging, quality checks |
+| **Reporting** | Dashboards, executive summaries, stakeholder reports |
+| **Domain Knowledge** | Public health, health financing, NGO operations, digital health |
+| **Collaboration Tools** | Google Workspace, Trello, Slack |
+
+---
+
+## 📂 Projects
+
+---
+
+### 🔹 Life Expectancy & Development Indicators Analysis
+**Tools:** Python, Pandas, Matplotlib, Seaborn
+
+**The Question:** What actually drives how long people live — and why do some regions fall so far behind?
+
+**What I found:**
+- Countries with higher health expenditure per capita consistently showed longer life expectancy, but the relationship was not linear — after a threshold, gains diminished, pointing to systemic efficiency gaps rather than just underfunding.
+- Education level emerged as one of the strongest predictors of life expectancy, outperforming GDP in several income groups — reinforcing that health outcomes are social outcomes.
+- Sub-Saharan Africa showed the sharpest disparities, with life expectancy gaps of up to 30 years compared to high-income nations — driven by a combination of low health spending, disease burden, and limited health infrastructure.
+- The analysis highlighted where targeted investment in both education and primary healthcare would yield the most life-years gained per dollar spent.
+
+**Why it matters:** This kind of analysis supports international health policy conversations, resource allocation decisions, and SDG 3 (Good Health and Well-being) reporting at the country level.
+
+---
+
+### 🔹 Health Insurance Risk & Profitability Analysis
+**Tools:** Power BI, DAX, Power Query &nbsp;|&nbsp; [View Repository](https://github.com/Jowe30/Health-Insurance-Risk-Profitability-Analysis-Power-BI)
+
+<img width="600" alt="Health Insurance Dashboard" src="https://github.com/user-attachments/assets/24d41030-9ee5-4280-8e44-a78a1e196035" />
+
+**The Question:** What factors drive insurance costs highest — and how can insurers make smarter, fairer pricing decisions?
+
+**What I found:**
+- Smoking status was the single most powerful cost driver, with smokers incurring charges up to **3–4x higher** than non-smokers across all age groups — a finding with direct implications for risk segmentation and premium pricing.
+- BMI above 30 (obese range) combined with smoking created a compounding risk effect, pushing average charges significantly beyond either factor alone — suggesting a need for multi-variable risk tiers rather than single-factor pricing.
+- Age showed a steady positive correlation with charges, but the slope steepened sharply after age 45, indicating where preventive care investment would have the highest cost-mitigation return.
+- Regional variation in average charges was moderate but consistent, pointing to differences in local healthcare costs and claim patterns that should inform geographic pricing adjustments.
+
+**Why it matters:** These insights support health insurers, actuarial teams, and health economists in designing more equitable, evidence-based pricing models — and help policymakers understand where preventive health investment reduces long-term system costs.
+
+---
+
+### 🔹 Global Health Expenditure Analysis
+**Tools:** Python, Pandas, Matplotlib, Seaborn &nbsp;|&nbsp; [View Repository](https://github.com/Jowe30/Exploratory-Data-Analysis-Global-Health-Expenditure)
+
+<img width="600" alt="Global Health Expenditure" src="https://github.com/user-attachments/assets/badc2f87-d080-4b9c-aa69-452c451df42a" />
+
+**The Question:** How does where a country sits economically shape how it funds health — and what does that mean for the people inside it?
+
+**What I found:**
+- High-income countries allocate a significantly larger share of GDP to health, but the gap between public and private spending tells a more important story: in low-income countries, **out-of-pocket spending dominates**, shifting financial risk entirely onto individuals and households.
+- Countries with higher public health expenditure as a share of total health spending consistently reported better population health indicators — reinforcing that how governments fund health matters as much as how much they spend.
+- Per capita spending disparities across regions were stark: some high-income nations spent over **100x more per person** than low-income counterparts, creating structural inequalities in access that cannot be resolved at the facility level alone.
+- The analysis identified a cluster of lower-middle-income countries that were outperforming their income-group peers on health outcomes — suggesting that efficiency, governance, and programme design can compensate for resource constraints to a meaningful degree.
+
+**Why it matters:** This project speaks directly to global health financing debates, SDG 3 monitoring, and the policy choices that determine whether health systems serve everyone or only those who can afford it.
+
+---
+
+### 🔹 Customer Experience & Business Intelligence Analysis
+**Tools:** Power BI, DAX, Power Query &nbsp;|&nbsp; [View Repository](https://github.com/Jowe30/Business-Intelligence-Customer-Experience-Analysis-Using-Power-BI)
+
+<img width="600" alt="Customer Experience Dashboard" src="https://github.com/user-attachments/assets/ac419f46-640b-41ce-8211-1882e1620101" />
+
+**The Question:** Where are customers disengaging — and what does the data say about why?
+
+**What I found:**
+- Customer satisfaction scores dropped most sharply at two specific touchpoints in the service journey, suggesting process or communication failures at predictable, fixable stages.
+- High-value customer segments showed lower satisfaction scores than lower-value ones — a counterintuitive finding that flagged a retention risk where it would hurt most financially.
+- Response time was the single most cited driver of dissatisfaction, and the data showed a clear threshold: resolution times beyond a certain window correlated directly with negative experience ratings.
+- Segmentation analysis revealed that certain customer profiles were consistently underserved, pointing to a service gap that, if addressed, could improve both loyalty and lifetime value.
+
+**Why it matters:** Business intelligence like this helps operations and customer experience teams move from intuition to evidence — reducing churn, improving service design, and allocating support resources where they create the most impact.
+
+---
+
+### 🔹 Weekly Sales Analysis Dashboard
+**Tools:** Microsoft Excel, Pivot Tables &nbsp;|&nbsp; HNG Internship
+
+**What I built:** An interactive Excel dashboard with dynamic slicers enabling store managers to explore weekly, store-level, and product-level performance without needing technical skills.
+
+**Impact:** Cleaned and standardized 10,000+ sales records. Reduced time spent on manual performance reviews by enabling ad-hoc, self-serve analysis. Identified underperforming product lines and store locations through visual trend comparison.
+
+---
+
+### 🔹 Feature Engineering & Exploratory Analysis — MovieLens Dataset
+**Tools:** Python, Pandas, Matplotlib &nbsp;|&nbsp; HNG Internship
+
+**What I did:** Processed and merged 1M+ user ratings across multiple datasets. Engineered new behavioral features and visualized engagement patterns to support content segmentation and recommendation system design.
+
+---
+
+## 🌍 Public Health Work & Community Impact
+
+My analytical work is grounded in six years of direct public health practice across Nigeria — work that shapes how I think about data and why I care about getting the insights right.
+
+| Year | Programme | Location | Impact |
+|---|---|---|---|
+| 2019–2023 | Health Program & Data Support Officer — CARE | Abia, Imo, Anambra | 700+ students and rural residents reached across 3 states |
+| 2023 | Mental Health Outreach Lead | Nnewi, Anambra | 1,000+ secondary school students engaged across 4 schools |
+| 2023 | Digital Health Policy Contributor | West African Institute of Public Health | Co-developed risk communication policy draft |
+| 2020 | Childhood Cancer Awareness Programme Lead | Uturu, Abia State | Community sensitization on breast and cervical cancer; IEC distribution and screening referrals |
+| 2021 | Environmental Sanitation & WASH Education | Okigwe, Imo State | School-based sanitation and hygiene education for underserved families |
+| 2025 | Volunteer Protocol Assistant | Africa Primary Health Care Forum, Abuja | Supported operations for 5,000+ guests and stakeholders |
+
+This work is what made me a better analyst. I know what it looks like when data collection fails in the field. I know what a programme report actually needs to say to be useful. And I know the difference between an insight that sounds good and one that actually changes a decision.
+
+---
+
+## 🎓 Education & Certifications
+
+**AltSchool Africa** — Diploma, Data Analysis
+
+**Abia State University, Uturu** — B.Sc., Public Health
+
+| Certification | Issuing Body | Year |
+|---|---|---|
+| Virtual Assistant Certification | ALX Africa | 2022 |
+| Public Health Internship | West African Institute of Public Health | 2023 |
+| Infodemic Management | World Health Organization (WHO) | 2023 |
+| Administration & Leadership Training | Rotaract Officer Program | 2020 |
+
+---
+
+## 🌱 What I'm Building
+
+I am currently developing a concept for a **low-data mental health platform** designed specifically for young Africans at the community level — one that connects users anonymously to licensed mental health professionals, operates on as little as 50MB of data, and builds a peer community around confidence, career mentorship, and belonging.
+
+The platform is a response to a real pattern I observed across years of field work: young people in under-resourced communities carry mental health struggles silently because they do not trust traditional support systems, cannot afford professional help, and have no safe space to be honest. The goal is to change that — one conversation at a time.
+
+*This project sits at the intersection of everything I care about: public health, technology, data, and community.*
+
+---
+
+## 📬 Let's Connect
+
+I am open to roles and collaborations in **health data analysis, global health intelligence, NGO and development sector analytics, health insurance, and public health programme support**.
+
+If you have seen something here that resonates — reach out. I'd like to hear from you.
+
+**📧 Direct email:** joangreen645@gmail.com
+
+**📝 Send me a message via this form:**
+👉 [Click here to send a message](https://docs.google.com/forms/d/e/1FAIpQLSflKVub7jTUIOe9CLsesixre3VFDSxGNq7GMbXHzkTev0LlJg/viewform)
 
 ---
 
 <div align="center">
-  <a href="www.linkedin.com/in/joan-green-858a40243" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/iam_joangreen?igsh=MTR5aDdnd2hoZDN6OQ%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/joan-green-858a40243)
+&nbsp;
+[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/iam_joangreen?igsh=MTR5aDdnd2hoZDN6OQ%3D%3D&utm_source=qr)
+
+---
+
+### 🛠 Tools I Work With
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" title="Python"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="Jupyter" title="Jupyter"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="35" alt="Anaconda" title="Anaconda"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="35" alt="MySQL"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="35" alt="SQLite"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" height="35" alt="Power BI"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge" height="35" alt="Excel"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="35" alt="Slack" title="Slack"/>
 </div>
 
 ---
 
-<h3 align="left">🛠 Language and tools</h3>
+*© Joan Green · Health Data Analyst · Public Health Professional · Lagos, Nigeria*
 
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
 </div>
+
 
