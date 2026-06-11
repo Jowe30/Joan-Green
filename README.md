@@ -146,8 +146,8 @@ Led a sensitization outreach to raise awareness on breast and cervical cancer am
 
 <table>
 <tr>
-<td><img width="280" src="images/cancer_awareness_session.jpeg" alt="Cancer Awareness Session with Students" /></td>
-<td><img width="280" src="images/cancer_awareness_team.jpeg" alt="Cancer Awareness Outreach Team" /></td>
+<td><img width="280" height="448" alt="IMG_0863 JPG" src="https://github.com/user-attachments/assets/c57412b6-6e25-42a7-af47-3978ad35745e" alt="Cancer Awareness Session with Students" /></td>
+<td><img width="280" height="448" alt="IMG_0862 JPG" src="https://github.com/user-attachments/assets/9c76dfc4-ad88-496d-bc68-d8327fdfa7c5" alt="Cancer Awareness Outreach Team" /></td>
 </tr>
 </table>
 
@@ -162,8 +162,9 @@ Coordinated and facilitated a secondary school-based sanitation project alongsid
 
 <table>
 <tr>
-<td><img width="280" src="images/wash_session_mic.jpeg" alt="WASH Education Session" /></td>
-<td><img width="280" src="images/wash_classroom.jpeg" alt="WASH Classroom Facilitation" /></td>
+<td><img width="280" height="448" alt="2BFE753F-30FD-418B-99FB-8487714BCC9C JPG" src="https://github.com/user-attachments/assets/2e02b4fc-bad0-4ace-88c0-e4b8d87967c5" alt="WASH Education Session" /></td>
+<td><img width="280" height="448" alt="D2FF4D70-3D69-4621-9A73-E2B534DF3920 JPG" src="https://github.com/user-attachments/assets/5091a9a7-a5a6-464d-a109-168c776bbabe" alt="WASH Classroom Facilitation" /></td>
+<td><<img width="280" height="448" alt="3C2327EC-ADA3-4BFD-9526-B508AC21C83E JPG" src="https://github.com/user-attachments/assets/dd96232d-2082-419d-ae08-3ef4dd2b8e42" alt="WASH Outreach Team" /></td>
 </tr>
 </table>
 
@@ -178,15 +179,15 @@ Designed and led a school-based mental health awareness campaign across four sec
 
 <table>
 <tr>
-<td><img width="280" src="images/mental_health_team.jpeg" alt="Mental Health Programme Team" /></td>
-<td><img width="280" src="images/mental_health_students.jpeg" alt="Students Engaged in Mental Health Session" /></td>
+<td><img width="550" height="300" alt="IMG_0870" src="https://github.com/user-attachments/assets/2fa20200-fc12-4601-b582-b339798447da" alt="Mental Health Programme Team" /></td>
+<td><img width="550" height="300" alt="17_08_2022, 13_43_26" src="https://github.com/user-attachments/assets/288db2b2-0a9f-47ac-b7d8-631fe2dd68e8" alt="Students Engaged in Mental Health Session" /></td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td><img width="280" src="images/mental_health_classroom_1.jpeg" alt="Mental Health Classroom Session" /></td>
-<td><img width="280" src="images/mental_health_classroom_2.jpeg" alt="Mental Health Outreach in Session" /></td>
+<td><img width="570" height="340" alt="IMG_0854 JPG" src="https://github.com/user-attachments/assets/2ddac0d9-6c08-40fe-84a1-086c2f36a48d" alt="Mental Health Classroom Session" /></td>
+<td><img width="420" height="562" alt="1A7E86B5-61D1-431C-8439-04FCC8C9CA47_L0_001-05_05_2023, 21_05_02" src="https://github.com/user-attachments/assets/d5c96d2d-b548-4f46-b4cb-a0184e81e64e" alt="Mental Health Outreach in Session" /></td>
 </tr>
 </table>
 
@@ -199,8 +200,8 @@ As project lead at CARE, coordinated multiple health outreach programmes across 
 
 <table>
 <tr>
-<td><img width="280" src="images/care_team_keri.jpeg" alt="CARE Team with KERI Materials" /></td>
-<td><img width="280" src="images/care_sdg_march.jpeg" alt="CARE Team SDG March" /></td>
+<td><img width="280" height="448" alt="8059DDF8-81BA-48F8-9FC1-36ACDC5EADEC JPG" src="https://github.com/user-attachments/assets/d560b351-4a67-4459-a7e5-8904af38b083" alt="CARE Team with KERI Materials" /></td>
+<td><img width="300" height="376" alt="3C2327EC-ADA3-4BFD-9526-B508AC21C83E JPG" src="https://github.com/user-attachments/assets/b6b129c3-50e7-4ad7-be53-35a0fb838aa5" alt="CARE Team SDG March" /></td>
 </tr>
 </table>
 
@@ -213,8 +214,8 @@ Supported event operations for 5,000+ guests, speakers, and attendees at the APH
 
 <table>
 <tr>
-<td><img width="280" src="images/aphcf_group_photo.jpeg" alt="APHCF 2025 Group Photo" /></td>
-<td><img width="280" src="images/aphcf_registration.jpeg" alt="Joan Managing APHCF Registration" /></td>
+<td><img width="280" height="448" alt="IMG_0866 JPG" src="https://github.com/user-attachments/assets/1779df4f-8306-47f8-8255-757f500a233a" alt="APHCF 2025 Group Photo" /></td>
+<td><<img width="280" height="500" alt="IMG_0869 JPG" src="https://github.com/user-attachments/assets/93723b66-35d6-4d52-8581-4e8adb00a04e" alt="Joan Managing APHCF Registration" /></td>
 </tr>
 </table>
 
@@ -226,8 +227,8 @@ Featured as a **Mental Health Advocate** at the *Dear Besties: Besties Day Out* 
 
 <table>
 <tr>
-<td><img width="280" src="images/care_trauma_informed_care.jpeg" alt="CARE Trauma Informed Care Event" /></td>
-<td><img width="280" src="images/dear_besties_event.jpeg" alt="Dear Besties Event - Joan as Mental Health Advocate" /></td>
+<td><img width="280" height="448" alt="IMG_0859 JPG" src="https://github.com/user-attachments/assets/19cf6cdb-53bd-40d3-a4de-1821aa1632b0" alt="CARE Trauma Informed Care Event" /></td>
+<td><img width="280" height="448" alt="IMG_0867 JPG (1)" src="https://github.com/user-attachments/assets/331275fd-75e6-4660-888e-ca40fa18d96a" alt="Dear Besties Event - Joan as Mental Health Advocate" /></td>
 </tr>
 </table>
 
