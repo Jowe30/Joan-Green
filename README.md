@@ -146,8 +146,8 @@ Led a sensitization outreach to raise awareness on breast and cervical cancer am
 
 <table>
 <tr>
-<td><img width="280" height="448" alt="IMG_0863 JPG" src="https://github.com/user-attachments/assets/c57412b6-6e25-42a7-af47-3978ad35745e" alt="Cancer Awareness Session with Students" /></td>
-<td><img width="280" height="448" alt="IMG_0862 JPG" src="https://github.com/user-attachments/assets/9c76dfc4-ad88-496d-bc68-d8327fdfa7c5" alt="Cancer Awareness Outreach Team" /></td>
+<td><img width="300" height="448" alt="IMG_0863 JPG" src="https://github.com/user-attachments/assets/c57412b6-6e25-42a7-af47-3978ad35745e" alt="Cancer Awareness Session with Students" /></td>
+<td><img width="360" height="448" alt="IMG_0862 JPG" src="https://github.com/user-attachments/assets/9c76dfc4-ad88-496d-bc68-d8327fdfa7c5" alt="Cancer Awareness Outreach Team" /></td>
 </tr>
 </table>
 
@@ -164,7 +164,7 @@ Coordinated and facilitated a secondary school-based sanitation project alongsid
 <tr>
 <td><img width="280" height="448" alt="2BFE753F-30FD-418B-99FB-8487714BCC9C JPG" src="https://github.com/user-attachments/assets/2e02b4fc-bad0-4ace-88c0-e4b8d87967c5" alt="WASH Education Session" /></td>
 <td><img width="280" height="448" alt="D2FF4D70-3D69-4621-9A73-E2B534DF3920 JPG" src="https://github.com/user-attachments/assets/5091a9a7-a5a6-464d-a109-168c776bbabe" alt="WASH Classroom Facilitation" /></td>
-<td><<img width="280" height="448" alt="3C2327EC-ADA3-4BFD-9526-B508AC21C83E JPG" src="https://github.com/user-attachments/assets/dd96232d-2082-419d-ae08-3ef4dd2b8e42" alt="WASH Outreach Team" /></td>
+<td><<img width="300" height="448" alt="3C2327EC-ADA3-4BFD-9526-B508AC21C83E JPG" src="https://github.com/user-attachments/assets/dd96232d-2082-419d-ae08-3ef4dd2b8e42" alt="WASH Outreach Team" /></td>
 </tr>
 </table>
 
@@ -180,7 +180,7 @@ Designed and led a school-based mental health awareness campaign across four sec
 <table>
 <tr>
 <td><img width="550" height="300" alt="IMG_0870" src="https://github.com/user-attachments/assets/2fa20200-fc12-4601-b582-b339798447da" alt="Mental Health Programme Team" /></td>
-<td><img width="550" height="300" alt="17_08_2022, 13_43_26" src="https://github.com/user-attachments/assets/288db2b2-0a9f-47ac-b7d8-631fe2dd68e8" alt="Students Engaged in Mental Health Session" /></td>
+<td><img width="550" height="390" alt="17_08_2022, 13_43_26" src="https://github.com/user-attachments/assets/288db2b2-0a9f-47ac-b7d8-631fe2dd68e8" alt="Students Engaged in Mental Health Session" /></td>
 </tr>
 </table>
 
@@ -214,7 +214,7 @@ Supported event operations for 5,000+ guests, speakers, and attendees at the APH
 
 <table>
 <tr>
-<td><img width="280" height="448" alt="IMG_0866 JPG" src="https://github.com/user-attachments/assets/1779df4f-8306-47f8-8255-757f500a233a" alt="APHCF 2025 Group Photo" /></td>
+<td><img width="380" height="448" alt="IMG_0866 JPG" src="https://github.com/user-attachments/assets/1779df4f-8306-47f8-8255-757f500a233a" alt="APHCF 2025 Group Photo" /></td>
 <td><<img width="280" height="500" alt="IMG_0869 JPG" src="https://github.com/user-attachments/assets/93723b66-35d6-4d52-8581-4e8adb00a04e" alt="Joan Managing APHCF Registration" /></td>
 </tr>
 </table>
